@@ -1,0 +1,7 @@
+ClimateGroup,n_days,n_anomalies,mean_score,anomaly_rate_percent,model,novelty_wet_score_ratio,novelty_heat_score_ratio,novelty_wet_anomaly_excess_pp,novelty_heat_anomaly_excess_pp
+Normal,214,0,0.6610732712199755,0.0,CS-LSTM AE,1.0480867280153476,,0.0,
+Hottest 10%,0,0,,0.0,CS-LSTM AE,1.0480867280153476,,0.0,
+Wettest 10%,23,0,0.6928621698980746,0.0,CS-LSTM AE,1.0480867280153476,,0.0,
+Normal,225,0,19.512836036691123,0.0,Gaussian Copula,1.2643724187421008,,4.0,
+Hottest 10%,0,0,,0.0,Gaussian Copula,1.2643724187421008,,4.0,
+Wettest 10%,25,1,24.671491960601603,4.0,Gaussian Copula,1.2643724187421008,,4.0,

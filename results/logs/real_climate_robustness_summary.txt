@@ -1,0 +1,4 @@
+Rolling-origin real-data climate robustness summary
+Rows scored out-of-sample: 810
+Temperature q90: 26.400
+Precipitation q90: 8.360

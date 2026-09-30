@@ -1,0 +1,8 @@
+HIC 2026 anomaly detection pipeline run summary
+Rows total: 1247
+Rows train: 997
+Rows test: 250
+CS-LSTM AE threshold (99th): 1.180308
+GC threshold (99th): 36.818858
+Temperature q90: 26.100
+Precipitation q90: 7.100

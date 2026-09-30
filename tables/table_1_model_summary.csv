@@ -1,0 +1,3 @@
+ID,Model,Input level,Cross-sectional?,Temporal?,Score / threshold
+M4,CS-LSTM AE,14-day sequences,Yes,Yes,Mean-squared reconstruction error; 99th percentile
+M5,GC detector,Daily multivariate,Yes,No,Negative log-likelihood; 99th percentile

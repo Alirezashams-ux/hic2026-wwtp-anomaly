@@ -1,0 +1,21 @@
+Dual-dataset benchmark summary
+Methodology: CS-LSTM AE + Gaussian Copula (99th percentile thresholds)
+Synthetic scenarios evaluated:
+- mean_shift_delta_1
+- mean_shift_delta_10
+- mean_shift_delta_5
+- structural_change
+
+Best synthetic ROC AUC by model:
+- CS-LSTM AE: 0.9979
+- Gaussian Copula: 1.0000
+
+Novelty indices (real dataset):
+- CS-LSTM AE_wet_score_ratio: 1.0481
+- CS-LSTM AE_heat_score_ratio: nan
+- CS-LSTM AE_wet_anomaly_excess_pp: 0.0000
+- CS-LSTM AE_heat_anomaly_excess_pp: nan
+- Gaussian Copula_wet_score_ratio: 1.2644
+- Gaussian Copula_heat_score_ratio: nan
+- Gaussian Copula_wet_anomaly_excess_pp: 4.0000
+- Gaussian Copula_heat_anomaly_excess_pp: nan

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "wwtp-climate-anomaly-detection"
+authors:
+  - family-names: Mahvelati Shamsabadi
+    given-names: Alireza
+  - family-names: Kyung
+    given-names: Daeseung
+license: MIT
+repository-code: "https://github.com/Alirezashams-ux/hic2026-wwtp-anomaly"
+preferred-citation:
+  type: conference-paper
+  title: "Machine Learning Anomaly Detection Under Climate-Driven Cross-Sectional Dependency in Wastewater Systems"
+  authors:
+    - family-names: Mahvelati Shamsabadi
+      given-names: Alireza
+    - family-names: Kyung
+      given-names: Daeseung
+  collection-title: "Proceedings of the 16th International Conference on Hydroinformatics (HIC 2026)"
+  conference:
+    name: "HIC 2026, Zaragoza, Spain, 22–26 June 2026"
+  publisher:
+    name: "IAHR"
+  year: 2026
+  start: 323
+  end: 330
+  doi: "10.64697/iahr.proc.hic2026.295"
